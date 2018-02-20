@@ -1,0 +1,7 @@
+feature kern {
+   pos @_widelow @_spc -148;
+   pos @_emptyLR @_lowlying -164;
+   pos @_nasal @_lowlying -246;
+} kern;
+
+
