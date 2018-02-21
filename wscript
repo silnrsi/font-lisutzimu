@@ -1,5 +1,5 @@
 APPNAME='lisutzimu'
-VERSION=1.3
+VERSION='1.401'
 LICENSE='ofl.txt'
 out='results'
 COPYRIGHT = "Copyright (c) 1998-2018, David Morse with Reserved Font Name LisuTzimu"

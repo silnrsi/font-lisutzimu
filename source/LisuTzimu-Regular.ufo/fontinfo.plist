@@ -21,15 +21,15 @@
   <key>note</key>
   <string>stem 78 units;  Derived from ls78  Normal by ttfbuilder v0.29</string>
   <key>openTypeHeadCreated</key>
-  <string>2018/02/20 11:30:14</string>
+  <string>2018/02/21 08:13:01</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>1</integer>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>800</integer>
+  <integer>1638</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-200</integer>
+  <integer>-410</integer>
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDescription</key>
@@ -94,7 +94,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>DavidMorse: LisuTzimu: 2009</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.002</string>
+  <string>Version 2.003</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -165,9 +165,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>800</integer>
+  <integer>1638</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>200</integer>
+  <integer>410</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
@@ -208,7 +208,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>2</integer>
   <key>versionMinor</key>
-  <integer>2</integer>
+  <integer>3</integer>
   <key>xHeight</key>
   <integer>870</integer>
   <key>year</key>
