@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>1040</integer>
   <key>copyright</key>
-  <string>Copyright (c) 1998-2009 by David Morse; licensed under the SIL Open Font License with Reserved Font Name "LisuTzimu".</string>
+  <string>Copyright (c) 1998-2019 David Morse</string>
   <key>descender</key>
   <integer>-410</integer>
   <key>familyName</key>
@@ -15,7 +15,7 @@
   <key>note</key>
   <string>stem 136 units; cross 80 units Derived from ls78  Bold by ttfbuilder v0.29</string>
   <key>openTypeHeadCreated</key>
-  <string>2019/07/10 14:42:52</string>
+  <string>2019/07/10 16:56:00</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>1</integer>
@@ -27,13 +27,13 @@
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDescription</key>
-  <string>Copyright (c) 1998-2009 by David Morse; licensed under the SIL Open Font License with Reserved Font Name "LisuTzimu".</string>
+  <string>A font for the Lisu (Fraser) script</string>
   <key>openTypeNameDesigner</key>
   <string>David Morse</string>
   <key>openTypeNameDesignerURL</key>
-  <string/>
+  <string>http://scripts.sil.org/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 1998-2009 David Morse, with Reserved Font Name "LisuTzimu".
+  <string>Copyright (c) 1998-2019 David Morse, with Reserved Font Name "LisuTzimu".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
@@ -82,7 +82,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameManufacturer</key>
   <string>David Morse</string>
   <key>openTypeNameManufacturerURL</key>
-  <string/>
+  <string>http://scripts.sil.org</string>
   <key>openTypeNamePreferredFamilyName</key>
   <string>LisuTzimu</string>
   <key>openTypeNamePreferredSubfamilyName</key>
@@ -92,7 +92,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>David Morse: LisuTzimu Bold: 2019</string>
   <key>openTypeNameVersion</key>
-  <string>Version 2.003</string>
+  <string>Version 1.900</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -152,7 +152,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>48</integer>
   </array>
   <key>openTypeOS2VendorID</key>
-  <string>PYRS</string>
+  <string>SIL </string>
   <key>openTypeOS2WeightClass</key>
   <integer>700</integer>
   <key>openTypeOS2WidthClass</key>
@@ -193,13 +193,13 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>styleName</key>
   <string>Bold</string>
   <key>trademark</key>
-  <string>LisuTzimu Bold is a trademark of David Morse.</string>
+  <string>LisuTzimu is a trademark of David Morse.</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
-  <integer>2</integer>
+  <integer>1</integer>
   <key>versionMinor</key>
-  <integer>3</integer>
+  <integer>900</integer>
   <key>xHeight</key>
   <integer>979</integer>
 </dict>

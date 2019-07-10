@@ -107,6 +107,7 @@
     <string>copyright</string>
     <string>logicalnot</string>
     <string>registered</string>
+    <string>degree</string>
     <string>paragraph</string>
     <string>middot</string>
     <string>quoteleft</string>
@@ -117,6 +118,7 @@
     <string>H18543</string>
     <string>ellipsis</string>
     <string>afii57929</string>
+    <string>hyphentwo</string>
     <string>macronlowmod</string>
     <string>uniA4D0</string>
     <string>uniA4D1</string>
@@ -169,8 +171,6 @@
     <string>endash</string>
     <string>emdash</string>
     <string>blackstar</string>
-    <string>hyphentwo</string>
-    <string>degree</string>
     <string>dblanglebracketleft</string>
     <string>dblanglebracketright</string>
   </array>
