@@ -17,7 +17,7 @@
   <key>note</key>
   <string>stem 78 units;  Derived from ls78  Italic by ttfbuilder v0.29</string>
   <key>openTypeHeadCreated</key>
-  <string>2019/07/10 16:56:00</string>
+  <string>2019/07/10 17:05:04</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>1</integer>
@@ -166,7 +166,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
-  <real>0.039625</real>
+  <real>0.03963</real>
   <key>postscriptBlueShift</key>
   <integer>7</integer>
   <key>postscriptBlueValues</key>
@@ -182,6 +182,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>LisuTzimu Italic</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
+  <key>postscriptStemSnapH</key>
+  <array/>
+  <key>postscriptStemSnapV</key>
+  <array/>
   <key>postscriptUnderlinePosition</key>
   <integer>-348</integer>
   <key>postscriptUnderlineThickness</key>
