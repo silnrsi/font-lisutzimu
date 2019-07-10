@@ -1,7 +1,0 @@
-feature kern {
-   pos @_emptyLR @_lowlying -246;
-   pos @_nasal @_lowlying -164;
-   pos @_emptyUR @_nasal -246;
-} kern;
-
-
