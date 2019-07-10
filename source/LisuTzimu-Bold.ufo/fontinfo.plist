@@ -12,16 +12,10 @@
   <integer>-410</integer>
   <key>familyName</key>
   <string>LisuTzimu</string>
-  <key>italicAngle</key>
-  <integer>0</integer>
-  <key>macintoshFONDFamilyID</key>
-  <integer>128</integer>
-  <key>macintoshFONDName</key>
-  <string>LisuTzimu Bold</string>
   <key>note</key>
   <string>stem 136 units; cross 80 units Derived from ls78  Bold by ttfbuilder v0.29</string>
   <key>openTypeHeadCreated</key>
-  <string>2018/02/20 11:30:20</string>
+  <string>2019/07/10 14:42:52</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>1</integer>
@@ -89,21 +83,20 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>David Morse</string>
   <key>openTypeNameManufacturerURL</key>
   <string/>
+  <key>openTypeNamePreferredFamilyName</key>
+  <string>LisuTzimu</string>
+  <key>openTypeNamePreferredSubfamilyName</key>
+  <string>Bold</string>
   <key>openTypeNameSampleText</key>
   <string/>
   <key>openTypeNameUniqueID</key>
-  <string>DavidMorse: LisuTzimu Bold: 2009</string>
+  <string>David Morse: LisuTzimu Bold: 2019</string>
   <key>openTypeNameVersion</key>
   <string>Version 2.003</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
     <integer>18</integer>
-  </array>
-  <key>openTypeOS2FamilyClass</key>
-  <array>
-    <integer>0</integer>
-    <integer>0</integer>
   </array>
   <key>openTypeOS2Panose</key>
   <array>
@@ -193,8 +186,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>82</integer>
   <key>postscriptUniqueID</key>
   <integer>-1</integer>
-  <key>postscriptWeightName</key>
-  <string>Bold</string>
   <key>styleMapFamilyName</key>
   <string>LisuTzimu</string>
   <key>styleMapStyleName</key>
@@ -211,7 +202,5 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>3</integer>
   <key>xHeight</key>
   <integer>979</integer>
-  <key>year</key>
-  <integer>2009</integer>
 </dict>
 </plist>
