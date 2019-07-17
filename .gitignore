@@ -4,6 +4,7 @@
 
 # smith
 .waf-*
+.smithpickle-*
 .lock-*
 results/**
 buildlinux2/**
@@ -101,4 +102,3 @@ $RECYCLE.BIN/
 *.py[co]
 *$py.class
 __pycache__/
-

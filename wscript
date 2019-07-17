@@ -1,13 +1,18 @@
-APPNAME='lisutzimu'
-VERSION='1.401'
-LICENSE='ofl.txt'
-out='results'
-COPYRIGHT = "Copyright (c) 1998-2018, David Morse with Reserved Font Name LisuTzimu"
+#!/usr/bin/python
+# this is a smith configuration file
 
-fname = 'LisuTzimu'
-for e in ('Regular', 'Bold', 'Italic', 'BoldItalic') :
-    f = font(target = fname+'-'+e+'.ttf',
-             source = 'source/LisuTzimu-'+e+'.ufo',
-             copyright = COPYRIGHT,
-             license = ofl('LisuTzimu'))
+# set the font name, version, licensing and description
+APPNAME = "LisuTzimu"
+fontfamily=APPNAME
 
+DESC_SHORT = "Font for the Lisu (Fraser) script"
+DESC_NAME = "LisuTzimu"
+
+getufoinfo('source/' + fontfamily + '-Regular' + '.ufo')
+BUILDLABEL = "alpha"
+
+for dspace in ('Roman', 'Italic'):
+    designspace('source/' + fontfamily + dspace + '.designspace',
+                target = "${DS:FILENAME_BASE}.ttf",
+                pdf = fret(params="-r -oi"),
+    )
