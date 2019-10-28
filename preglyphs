@@ -1,4 +1,4 @@
 #!/bin/sh
 
-psfufo2glyphs source/LisuTzimuRoman.designspace source/LisuTzimuRoman.glyphs -l source/logs/ufo2gR.log
-psfufo2glyphs source/LisuTzimuItalic.designspace source/LisuTzimuItalic.glyphs -l source/logs/ufo2gI.log
+psfufo2glyphs source/LisuTzimuRoman.designspace source/LisuTzimuRoman.glyphs
+psfufo2glyphs source/LisuTzimuItalic.designspace source/LisuTzimuItalic.glyphs

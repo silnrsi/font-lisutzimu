@@ -13,8 +13,10 @@ TIPS
 
 We cannot afford to offer no-cost technical support.
 
-If you do find a problem, please do report it to https://github.com/silnrsi/font-lisutzimu/issues
-we can't guarantee any direct response, but will try to fix reported bugs in future 
+If you do find a problem, please do report it to
+https://github.com/silnrsi/font-lisutzimu/issues
+
+We can't guarantee any direct response, but will try to fix reported bugs in future 
 versions.
 
 Many problems can be solved, or at least explained, through an understanding

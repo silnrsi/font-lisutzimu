@@ -1,10 +1,10 @@
 #!/bin/sh
 
 # Fix up glifs in files touched by FontForge and normalize
-psffixffglifs source/LisuTzimu-Regular.ufo -p checkfix=fix -l source/logs/fixffR.log
-psffixffglifs source/LisuTzimu-Bold.ufo -p checkfix=fix -l source/logs/fixffB.log
-psffixffglifs source/LisuTzimu-Italic.ufo -p checkfix=fix -l source/logs/fixffI.log
-psffixffglifs source/LisuTzimu-BoldItalic.ufo -p checkfix=fix -l source/logs/fixffBI.log
+psffixffglifs source/LisuTzimu-Regular.ufo -p checkfix=fix
+psffixffglifs source/LisuTzimu-Bold.ufo -p checkfix=fix
+psffixffglifs source/LisuTzimu-Italic.ufo -p checkfix=fix
+psffixffglifs source/LisuTzimu-BoldItalic.ufo -p checkfix=fix
 
 # Following sync will copy psnames and glyphorder updates to all fonts
-psfsyncmasters source/LisuTzimuRoman.designspace source/LisuTzimuItalic.designspace -l source/logs/sync.log
+psfsyncmasters source/LisuTzimuRoman.designspace source/LisuTzimuItalic.designspace
