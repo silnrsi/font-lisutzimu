@@ -2,11 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>@MMK_L_afii57929</key>
+  <key>public.kern1.afii57929</key>
   <array>
     <string>afii57929</string>
   </array>
-  <key>@MMK_L_uniA4D1</key>
+  <key>public.kern1.uniA4D1</key>
   <array>
     <string>uniA4D1</string>
     <string>uniA4D4</string>
@@ -17,28 +17,28 @@
     <string>uniA4EC</string>
     <string>uniA4EF</string>
   </array>
-  <key>@MMK_L_uniA4D5</key>
+  <key>public.kern1.uniA4D5</key>
   <array>
     <string>uniA4D5</string>
     <string>uniA4E1</string>
     <string>uniA4E5</string>
     <string>uniA4EE</string>
   </array>
-  <key>@MMK_L_uniA4FA</key>
+  <key>public.kern1.uniA4FA</key>
   <array>
     <string>macronlowmod</string>
     <string>uniA4FA</string>
     <string>uniA4FB</string>
   </array>
-  <key>@MMK_R_afii57929</key>
+  <key>public.kern2.afii57929</key>
   <array>
     <string>afii57929</string>
   </array>
-  <key>@MMK_R_space</key>
+  <key>public.kern2.space</key>
   <array>
     <string>space</string>
   </array>
-  <key>@MMK_R_uniA4F8</key>
+  <key>public.kern2.uniA4F8</key>
   <array>
     <string>macronlowmod</string>
     <string>uniA4F8</string>
