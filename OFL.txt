@@ -1,4 +1,4 @@
-Copyright 1998-2018 David Morse
+Copyright 1998-2019 David Morse
 with Reserved Font Name "LisuTzimu".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

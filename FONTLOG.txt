@@ -9,6 +9,11 @@ LisuTzimu is a Unicode typeface family that supports all languages that use the 
 
 ChangeLog
 
+19 Nov 2019 (SIL WSTech Team) LisuTzimu version 2.000
+- Rebuilt from new workflow
+- Supports original kerning
+- No design changes
+
 20 Feb 2018 (Martin Hosken) LisuTzimu version 1.400
 - Publish on github
 

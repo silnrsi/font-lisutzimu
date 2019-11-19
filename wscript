@@ -9,7 +9,7 @@ DESC_SHORT = "Font for the Lisu (Fraser) script"
 DESC_NAME = "LisuTzimu"
 
 getufoinfo('source/' + fontfamily + '-Regular' + '.ufo')
-BUILDLABEL = "alpha"
+# BUILDLABEL = "alpha"
 
 for dspace in ('Roman', 'Italic'):
     designspace('source/' + fontfamily + dspace + '.designspace',
